@@ -97,14 +97,14 @@
         </div>
         <div class="back">
             <div class="back-content middle">
-                <h2>DarkCode</h2>
-                <span>Youtube</span>
+                <h3>Product Name</h3>
+                <span>Description or category</span>
                 <div class="sm">
                     <a href=""><i class="fab fa-facebook-square"></i></a>
                     <a href=""><i class="fab fa-twitter-square"></i></a>
                     <a href=""><i class="fab fa-youtube"></i></a>
                     <a href=""><i class="fab fa-instagram-square"></i></a>
-                    <a href=""></a>
+                    
                 </div>
             </div>
         </div>
